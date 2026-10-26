@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trafego Rotta</string>
+    <string name="accessibility_service_name">Leitor de Ofertas Rotta (Somente Leitura)</string>
+    <string name="accessibility_service_description">Lê exclusivamente o valor (R$), distância (km) e tempo (minutos) das ofertas de corrida exibidas pelo Uber e 99 para calcular instantaneamente o semáforo de viabilidade no aparelho. Este serviço NUNCA aceita, recusa, clica nem interage com outros aplicativos, e não coleta nenhum dado pessoal de passageiros.</string>
+    <string name="overlay_notification_title">Rotta Copiloto Ativo</string>
+    <string name="overlay_notification_text">Bolha flutuante e semáforo em execução</string>
+    <string name="overlay_fgs_description">Exibição de overlay flutuante de relance com ganhos da jornada e semáforo da corrida atual.</string>
+</resources>

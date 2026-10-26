@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android Builds e Chaves
+*.keystore
+*.jks
+keystore.properties
+local.properties
+.gradle/
+**/build/

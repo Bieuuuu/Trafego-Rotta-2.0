@@ -1,0 +1,23 @@
+/* Gerado automaticamente a partir de DESIGN.md */
+:root {
+  --rotta-primary: #0A0A0A;
+  --rotta-on-primary: #FFFFFF;
+  --rotta-surface: #FFFFFF;
+  --rotta-surface-variant: #F4F4F5;
+  --rotta-on-surface: #0A0A0A;
+  --rotta-on-surface-muted: #5F5F66;
+  --rotta-outline: #E4E4E7;
+  --rotta-signal-good: #15803D;
+  --rotta-signal-medium: #FACC15;
+  --rotta-signal-bad: #B91C1C;
+}
+
+.dark {
+  --rotta-primary: #FAFAFA;
+  --rotta-on-primary: #0A0A0A;
+  --rotta-surface: #0A0A0A;
+  --rotta-surface-variant: #18181B;
+  --rotta-on-surface: #FFFFFF;
+  --rotta-on-surface-muted: #A1A1AA;
+  --rotta-outline: #27272A;
+}
